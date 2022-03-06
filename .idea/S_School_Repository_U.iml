@@ -3,6 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/handlers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/handlers/users" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/handlers/users/commands" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/keyboards" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
